@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aryavatan
-- 👀 I’m interested in game development and video creation
-- 🌱 I’m currently working at Carbon Counts building a super cool mobile game centered around planting trees in real life
-- 💞️ I’m looking to collaborate on game projects
-- 📫 How to reach me: send me a message on Instagram
+- 👋 Hi, I’m Arya Vatan-Abadi
+- 🎮 I’m passionate about game development and the video game industry
+- 🌱 I’m currently working at Carbon Counts building one of the world's first play-to-plant video games where we have planted over 1 million trees so far
+- 👨🏻‍💻 I'm proficient with Unity and Godot game engines, and I'm proficient with C# and C++ programming 
+- 📫 How to reach me: send me an email, and I will respond within 24 hours (48 hours if I'm very busy)
 
 <!---
 aryavatan/aryavatan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
